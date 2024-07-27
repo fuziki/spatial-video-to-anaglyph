@@ -1,4 +1,4 @@
-# spatial-video-to-anaglyph
+# Spatial Video to Anaglyph Video
 Convert Apple's spatial videos to anaglyph videos.  
 Anaglyphs enables stereoscopic vision by utilizing glasses with red and blue lenses.
 
